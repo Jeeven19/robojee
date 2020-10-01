@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robojee/static/css/main.a1d8643d.chunk.css",
+    "main.js": "/robojee/static/js/main.a9eaea1e.chunk.js",
+    "main.js.map": "/robojee/static/js/main.a9eaea1e.chunk.js.map",
+    "runtime-main.js": "/robojee/static/js/runtime-main.b9002aad.js",
+    "runtime-main.js.map": "/robojee/static/js/runtime-main.b9002aad.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robojee/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/robojee/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/robojee/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/robojee/index.html",
+    "precache-manifest.da91d5fef4ecb67d275c912972fc6939.js": "/robojee/precache-manifest.da91d5fef4ecb67d275c912972fc6939.js",
+    "service-worker.js": "/robojee/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robojee/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a1d8643d.chunk.css.map": "/robojee/static/css/main.a1d8643d.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/robojee/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robojee/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9002aad.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.a1d8643d.chunk.css",
+    "static/js/main.a9eaea1e.chunk.js"
+  ]
+}
